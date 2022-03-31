@@ -24,7 +24,7 @@ function EffectTutorial() {
           setCount(count + 1);
         }}
       >
-        Click
+        Clicks
       </button>
     </div>
   );
